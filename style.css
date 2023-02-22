@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Poppins:wght@300;400;500;700");
+
+h1 {
+  color: red;
+  font-family: 'Open Sans', sans-serif;;
+  font-size: 30px;
+  line-height: normal;
+}
+
+h2 {
+  color: purple;
+  font-family: 'Open Sans', sans-serif;;
+  font-size: 20px;
+  line-height: normal;
+}
+
+p {
+  color: blue;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  line-height: normal;
+}
+
+ul {
+  color: blue;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  line-height: normal;
+}
+
+a {
+  color: hotpink;
+   text-decoration: yellow;
+}
+
+/*a:hover {
+  background-color: yellow;
+}*/
+
+.container {
+  width: 700px;
+  margin: 40px auto;
+}
+
+.card-white {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.btn-blue {
+  background-color: #6B72E1;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+}
+.btn-blue:hover {
+  background-color: black;
+  color: white;
+}
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline;
+  padding: 10px;
+}
+.list-inline i {
+  font-size: 50px;
+  color: rgb(230, 230, 230);
+}
+.list-inline i:hover {
+  color: black;
+}
+
+.card-white {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+}
+
+#introduction p {
+  margin-bottom: 40px;
+}
