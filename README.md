@@ -1,1 +1,1 @@
-# amrita_resume
+# Amrita Goswami
